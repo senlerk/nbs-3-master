@@ -158,7 +158,7 @@ GROUP BY
 ORDER BY
   total_rentals DESC,
   genre_count DESC;
-
+```
 ## Tips for Success
 Be Specific with Prompts: The more detailed your prompt, the better the output.
 Iterate as Needed: Don't hesitate to refine your prompts for better questions.
